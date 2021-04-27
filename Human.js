@@ -27,10 +27,6 @@ class Human {
         this.weight++;
     }
 
-    say(message) {
-        alert(message);
-    }
-
     getName() {
         return this.name;
     }
