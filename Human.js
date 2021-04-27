@@ -7,7 +7,7 @@ class Human {
     }
 
     isMale() {
-        return this.gender == MALE;
+        return this.gender == male;
     }
 
     setGender(gender) {
